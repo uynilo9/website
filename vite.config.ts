@@ -11,7 +11,6 @@ export default vite.defineConfig({
   resolve: {
     alias: [
       { find: '@', replacement: path.resolve(__dirname, './source') },
-      { find: '@datas', replacement: path.resolve(__dirname, './source/datas') },
       { find: '@assets', replacement: path.resolve(__dirname, './source/assets') },
       { find: '@components', replacement: path.resolve(__dirname, './source/components') }
     ]
