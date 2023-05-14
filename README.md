@@ -6,7 +6,7 @@
 
 ## 💡 Introduction
 
-My clean and simple personal website in TypeScript, Tailwind CSS, SCSS, Vue & Vite.
+My clean and simple personal website in TypeScript, Tailwind CSS, Vue & Vite.
 
 ## 🍴 Fork
 

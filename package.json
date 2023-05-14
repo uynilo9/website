@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
-    "tailwind": "tailwind build ./source/assets/tailwind.css -o ./source/assets/tailwind.base.css"
+    "tailwind": "tailwind build ./source/assets/tailwind.scss -o ./source/assets/tailwind.base.scss"
   },
   "dependencies": {
     "vue": "^3.2.47"
