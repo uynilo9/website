@@ -21,7 +21,7 @@ npm install      # Using npm
 yarn install     # Using yarn
 ```
 
-🚀 Start Vite surver:
+🚀 Start Vite server:
 ```terminal
 npm run dev  # Using npm
 yarn dev     # Using yarn
